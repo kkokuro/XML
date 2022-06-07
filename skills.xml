@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<skills type="array">
+    <List>1. Базовая теория</List>
+    <List>2. Клиент-серверная архитектура</List>
+    <List>3. HTTP Методы</List>
+    <List>7. Тестирование API через Postman</List>
+    <List>8. Снятие и чтение логов c внешнего сервера</List>
+    <List>9. Снифинг http web трафика через Charles и Fiddler</List>
+    <List>10. Dev Tools веб браузеров</List>
+    <List>11. VPN</List>
+    <List>12. Мобильное тестирование</List>
+    <List>19. Командная строка (terminal) Linux</List>
+    <List>22. Основы SQL</List>
+    <List>25. Нагрузочное тестирование в Jmeter</List>
+</skills>
